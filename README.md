@@ -1,3 +1,5 @@
+#VIRTUAL-MOUSE
+
 This Python code uses the OpenCV library and the cvzone.HandTrackingModule to create an interactive image viewer application with hand gestures. Here's a breakdown of the code in points:
 
 1. Import necessary libraries:
